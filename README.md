@@ -6,7 +6,7 @@ This tool utilizes mySQL DB to manage a team, there are multiple options
 
 ##
 
-![picture of repo](https://github.com/seanmena/EmployeeManager/screenshot.png)
+![picture of repo](https://github.com/seanmena/EmployeeManager/blob/main/screenshot.png)
 
 ## Installation
 
